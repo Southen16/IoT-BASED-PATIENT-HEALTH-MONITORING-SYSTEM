@@ -56,3 +56,4 @@ of completing the project successfully.
 1.6.2 SOFTWARE REQUIREMENTS
 • Arduino Software
 
+![image](https://user-images.githubusercontent.com/123846568/215298416-272a272c-6a33-4236-a9e9-eb067c73b0a2.png)
