@@ -57,3 +57,9 @@ of completing the project successfully.
 • Arduino Software
 
 ![image](https://user-images.githubusercontent.com/123846568/215298416-272a272c-6a33-4236-a9e9-eb067c73b0a2.png)
+
+![image](https://user-images.githubusercontent.com/123846568/215298441-23c6cd6a-9d93-4b5b-bfc0-60e6033a5b06.png)
+
+![image](https://user-images.githubusercontent.com/123846568/215298452-5c859ab6-fad8-4b08-8ed0-1c122f3f1e8c.png)
+
+
