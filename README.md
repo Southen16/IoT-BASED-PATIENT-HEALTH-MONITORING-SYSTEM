@@ -25,7 +25,7 @@ patients can use it and can take help in any emergency.
 In the absence of doctors, the patient is unable to consult them, potentially resulting in an
 emergency scenario. Each person's particular health is being monitored.
 
-2
+
 
 1.4 SCOPE
 
